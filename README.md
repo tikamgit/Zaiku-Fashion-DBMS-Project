@@ -1,5 +1,8 @@
 # Zaiku Fashion DBMS Project
 
+[![author](https://img.shields.io/badge/author-Tikam-ff69b4.svg?style=flat-square)](https://www.linkedin.com/in/tikamchand/)
+
+
 ZAIKU FASHION
 
 ONLINE RETAIL STORE BUSINESS REQUIREMENTS
